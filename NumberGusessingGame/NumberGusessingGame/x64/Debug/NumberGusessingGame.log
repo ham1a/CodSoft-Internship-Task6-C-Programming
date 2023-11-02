@@ -1,0 +1,3 @@
+﻿  NumberGusessingGame.cpp
+C:\Users\PC\source\repos\NumberGusessingGame\NumberGusessingGame\NumberGusessingGame.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NumberGusessingGame.vcxproj -> C:\Users\PC\source\repos\NumberGusessingGame\x64\Debug\NumberGusessingGame.exe
